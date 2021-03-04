@@ -12,6 +12,7 @@ Los pasos a seguir son los siguientes :
 	    <item name="colorAccent">@android:color/white</item>
 </style>
 
+
 2- Agregar los colores personalisados del tema:
     res/values/colors.xml
     
