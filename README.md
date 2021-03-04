@@ -23,5 +23,8 @@ Los pasos a seguir son los siguientes :
 7- Modificar AndroidManifest.xml.
 
 
+Explicación : https://drive.google.com/file/d/1WGbBWo3juYmVgbtQXA_9bdap1uhGoovh/view?usp=sharing
+
+
    
    
