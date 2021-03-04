@@ -4,14 +4,14 @@ Este proyecto es un ejemplo de pantalla de Bienvenida en Android
 Los pasos a seguir son los siguientes :
 
 1- Crear el tema que se le dara a la pantalla de bienvenida.
-   res/values/themes/themes.xml     
-      
+   res/values/themes/themes.xml    
+   
 <style name="ThemeSplash" parent="Theme.MaterialComponents.Light.NoActionBar">
 	    <item name="colorPrimary">@color/colorPrimarySplash</item>
 	    <item name="colorPrimaryDark">@color/colorPrimaryDarkSplash</item>
 	    <item name="colorAccent">@android:color/white</item>
 </style>
-
+   
 
 2- Agregar los colores personalisados del tema:
     res/values/colors.xml
