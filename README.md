@@ -20,7 +20,7 @@ Los pasos a seguir son los siguientes :
 
 6- Crear y modificar las clases (MainActivity, ActivitySplash)
 
-7- Modificar AndroidManifest.xml
+7- Modificar AndroidManifest.xml.
 
 
    
